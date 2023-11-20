@@ -1,0 +1,197 @@
+{
+    "pending": [
+      {
+        "user": "Anirban Bhattacharya",
+        "riskLevel": "Low",
+        "triggerReason": "Hard Flag",
+        "dateAddedOn": "2023-11-05",
+        "previouslyReviewed": "Yes",
+        "userEmail": "bhattacharya@anirban.com",
+        "inQueueFor": "14 days"
+      },
+      {
+        "user": "Virat Kohli",
+        "riskLevel": "Medium",
+        "triggerReason": "Temp Flag",
+        "dateAddedOn": "2023-11-12",
+        "previouslyReviewed": "No",
+        "userEmail": "virat@kohli.com",
+        "inQueueFor": "13 days"
+      },
+      {
+        "user": "Neeraj Chopra",
+        "riskLevel": "High",
+        "triggerReason": "Restricted Unflag",
+        "dateAddedOn": "2023-11-14",
+        "previouslyReviewed": "Yes",
+        "userEmail": "neeraj.chopra@athlete.com",
+        "inQueueFor": "12 days"
+      },
+      {
+        "user": "Sunil Chettri",
+        "riskLevel": "Medium",
+        "triggerReason": "Un Flag",
+        "dateAddedOn": "2023-11-14",
+        "previouslyReviewed": "No",
+        "userEmail": "sunil.chettri@football.com",
+        "inQueueFor": "11 days"
+      },
+      {
+        "user": "Arijit Singh",
+        "riskLevel": "Low",
+        "triggerReason": "Reviewed",
+        "dateAddedOn": "2023-11-10",
+        "previouslyReviewed": "Yes",
+        "userEmail": "arijit.singh@singer.com",
+        "inQueueFor": "10 days"
+      },
+      {
+        "user": "Rohit Sharma",
+        "riskLevel": "High",
+        "triggerReason": "Hard Flag",
+        "dateAddedOn": "2023-11-12",
+        "previouslyReviewed": "No",
+        "userEmail": "sharma.rohit@athlete.com",
+        "inQueueFor": "9 days"
+      },
+      {
+        "user": "Vicky Kaushal",
+        "riskLevel": "Medium",
+        "triggerReason": "Temp Flag",
+        "dateAddedOn": "2023-11-15",
+        "previouslyReviewed": "Yes",
+        "userEmail": "kaushal.vicky@movies.com",
+        "inQueueFor": "8 days"
+      },
+      {
+        "user": "Sidharth Malhotra",
+        "riskLevel": "Low",
+        "triggerReason": "Restricted Unflag",
+        "dateAddedOn": "2023-11-15",
+        "previouslyReviewed": "No",
+        "userEmail": "sid.malhotra@star.com",
+        "inQueueFor": "7 days"
+      },
+      {
+        "user": "Shilpa Rao",
+        "riskLevel": "High",
+        "triggerReason": "Un Flag",
+        "dateAddedOn": "2023-11-17",
+        "previouslyReviewed": "Yes",
+        "userEmail": "rao.shilpa@singer.com",
+        "inQueueFor": "6 days"
+      },
+      {
+        "user": "Shahrukh Khan",
+        "riskLevel": "Medium",
+        "triggerReason": "Restricted Unflag",
+        "dateAddedOn": "2023-11-12",
+        "previouslyReviewed": "No",
+        "userEmail": "shah.khan@srk.com",
+        "inQueueFor": "5 days"
+      }
+    ],
+    "completed": [
+      {
+        "user": "Shahrukh Khan",
+        "userEmail": "shah.khan@srk.com",
+        "riskLevel": "Medium",
+        "actionReason": "Restricted UnFlag",
+        "timeToClose": "3 days",
+        "dateAddedOn": "2023-11-12",
+        "actionTakenBy": "Tom",
+        "actionTakenByEmail": "tom@action.com"
+      },
+      {
+        "user": "Rajkumar Rao",
+        "userEmail": "rao.raj@ias.com",
+        "riskLevel": "Medium",
+        "actionReason": "Temp Flag",
+        "timeToClose": "7 days",
+        "dateAddedOn": "2023-11-12",
+        "actionTakenBy": "Bob",
+        "actionTakenByEmail": "bob@action.com"
+      },
+      {
+        "user": "Pankaj Tripathi",
+        "userEmail": "tripathi.pankaj@mirzapur.com",
+        "riskLevel": "High",
+        "actionReason": "Restricted UnFlag",
+        "timeToClose": "5 days",
+        "dateAddedOn": "2023-11-12",
+        "actionTakenBy": "Ema",
+        "actionTakenByEmail": "ema@action.com"
+      },
+      {
+        "user": "Sidharth Malhotra",
+        "userEmail": "sid.malhotra@star.com",
+        "riskLevel": "Low",
+        "actionReason": "Restricted UnFlag",
+        "timeToClose": "2 days",
+        "dateAddedOn": "2023-11-15",
+        "actionTakenBy": "Francis",
+        "actionTakenByEmail": "francis@action.com"
+      },
+      {
+        "user": "Sunil Chettri",
+        "userEmail": "sunil.chettri@football.com",
+        "riskLevel": "Medium",
+        "actionReason": "Un Flag",
+        "timeToClose": "4 days",
+        "dateAddedOn": "2023-11-14",
+        "actionTakenBy": "Paul",
+        "actionTakenByEmail": "paul@action.com"
+      },
+      {
+        "user": "Arijit Singh",
+        "userEmail": "arijit.singh@singer.com",
+        "riskLevel": "Low",
+        "actionReason": "Reviewed",
+        "timeToClose": "6 days",
+        "dateAddedOn": "2023-11-10",
+        "actionTakenBy": "Glory",
+        "actionTakenByEmail": "glory@action.com"
+      },
+      {
+        "user": "Manoj Bajpayee",
+        "userEmail": "manoj.bajpayee@actor.com",
+        "riskLevel": "Medium",
+        "actionReason": "Temp Flag",
+        "timeToClose": "3 days",
+        "dateAddedOn": "2023-10-14",
+        "actionTakenBy": "Richard",
+        "actionTakenByEmail": "richard@action.com"
+      },
+      {
+        "user": "Irrfan Khan",
+        "userEmail": "irrfan.khan@movie.com",
+        "riskLevel": "Low",
+        "actionReason": "Restricted UnFlag",
+        "timeToClose": "7 days",
+        "dateAddedOn": "2023-10-19",
+        "actionTakenBy": "Eva",
+        "actionTakenByEmail": "eva@action.com"
+      },
+      {
+        "user": "Abir Chatterjee",
+        "userEmail": "abir.chatterjee@tolly.com",
+        "riskLevel": "High",
+        "actionReason": "Un Flag",
+        "timeToClose": "5 days",
+        "dateAddedOn": "2023-10-16",
+        "actionTakenBy": "Frank",
+        "actionTakenByEmail": "frank@action.com"
+      },
+      {
+        "user": "Virat Kohli",
+        "userEmail": "virat@kohli.com",
+        "riskLevel": "Medium",
+        "actionReason": "Temp Flag",
+        "timeToClose": "2 days",
+        "dateAddedOn": "2023-10-17",
+        "actionTakenBy": "Steve",
+        "actionTakenByEmail": "steve@action.com"
+      }
+    ]
+  }
+  
